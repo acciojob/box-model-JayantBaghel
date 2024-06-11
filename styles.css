@@ -23,7 +23,7 @@
 }
 
 .red {
-  background-color: red;
+  background-color: rgba(0, 0, 0, 0);
   order: 3;
 }
 .green {
